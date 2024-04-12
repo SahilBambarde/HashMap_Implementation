@@ -1,0 +1,47 @@
+O(1)
+put()
+get()
+containsKey()
+remove()
+size()
+keySet()
+
+<Key,Value>
+
+Key - Unique
+
+Country (key) , Population (value)
+
+India 190
+China 200
+US 100
+Nepal 5
+Canada 50
+
+Array of LinkedList
+[0,1,2,3]
+Every index in above array contains a linked-list
+
+every index is also know as bucket
+
+----------------------------------------------------
+
+Hashing -> data form change
+"abc" -> 3456
+SHA1
+SHA256
+password storing
+
+----------------------------------------
+
+blackbox
+
+hashing function
+
+
+hashCode()
+
+----------------------------------------
+
+
+
